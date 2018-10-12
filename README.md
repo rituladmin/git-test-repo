@@ -1,2 +1,2 @@
 # git-test-repo
-this is fro testing purpose.
+this is for testing purpose.
